@@ -1,4 +1,4 @@
-# Felipe Bonatti Serejo de Lima  
+# Felipe Bonatti
 
 ## 👨‍💻 Sobre Mim  
 Analista de Dados com expertise em projetos de alto impacto, especializado em desenvolver soluções data-driven que geram valor mensurável para negócios.  
